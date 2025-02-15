@@ -6,7 +6,7 @@ versions = [
     {
         "number": "0.0.2",
         "features": [
-            "1. update help info",
+            "1. init",
         ],
     },
     {

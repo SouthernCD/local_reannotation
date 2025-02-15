@@ -1,2 +1,2 @@
-# yxdef
-Here's an example of a repository
+# local_reannotation
+Locally reannotate gene structures from haplotype sequences
